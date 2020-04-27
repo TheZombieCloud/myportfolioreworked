@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/myportfolioreworked/static/css/main.e0c8bf49.chunk.css",
+    "main.js": "/myportfolioreworked/static/js/main.57856da1.chunk.js",
+    "main.js.map": "/myportfolioreworked/static/js/main.57856da1.chunk.js.map",
+    "runtime-main.js": "/myportfolioreworked/static/js/runtime-main.9036283f.js",
+    "runtime-main.js.map": "/myportfolioreworked/static/js/runtime-main.9036283f.js.map",
+    "static/js/2.b9d6fb9f.chunk.js": "/myportfolioreworked/static/js/2.b9d6fb9f.chunk.js",
+    "static/js/2.b9d6fb9f.chunk.js.map": "/myportfolioreworked/static/js/2.b9d6fb9f.chunk.js.map",
+    "index.html": "/myportfolioreworked/index.html",
+    "precache-manifest.3ad99be66576ddc6046fad9c75f6e3e3.js": "/myportfolioreworked/precache-manifest.3ad99be66576ddc6046fad9c75f6e3e3.js",
+    "service-worker.js": "/myportfolioreworked/service-worker.js",
+    "static/css/main.e0c8bf49.chunk.css.map": "/myportfolioreworked/static/css/main.e0c8bf49.chunk.css.map",
+    "static/js/2.b9d6fb9f.chunk.js.LICENSE.txt": "/myportfolioreworked/static/js/2.b9d6fb9f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/myportfolioreworked/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9036283f.js",
+    "static/js/2.b9d6fb9f.chunk.js",
+    "static/css/main.e0c8bf49.chunk.css",
+    "static/js/main.57856da1.chunk.js"
+  ]
+}
